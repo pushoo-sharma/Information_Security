@@ -3,7 +3,7 @@
 
 # ${1:Project Name}
 
-# 1: Information Security
+## 1: Information Security
 TODO: Collection of Information Security sets ranging from Caesar Cipher to Digital Signature using Cryptool.
 
 ## Practical Set-1
