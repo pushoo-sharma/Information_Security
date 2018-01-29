@@ -5,7 +5,6 @@
 TODO: Collection of Information Security sets ranging from Caesar Cipher to Digital Signature using Cryptool.
 
 ## Practical Set-1
-P.Set-1: 
 1. Implementation Caesar cipher encryption-decryption.
 2. Implementation Monoalphabetic cipher encryption-decryption.
 
@@ -21,6 +20,7 @@ P.Set-1:
 
 ## History
 TODO: Write history
+
 ## Credits
 
 ## License
