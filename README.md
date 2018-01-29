@@ -1,5 +1,6 @@
 <snippet>
   <content><![CDATA[
+
 # ${1:Information Security}
 TODO: Collection of Information Security sets ranging from Caesar Cipher to Digital Signature using Cryptool.
 ## Practical Set-1
@@ -17,9 +18,7 @@ P.Set-1:
 ## History
 TODO: Write history
 ## Credits
-
 ## License
-
 ]]></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
