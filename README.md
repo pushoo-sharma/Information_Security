@@ -18,7 +18,6 @@ P.Set-1:
 TODO: Write history
 ## Credits
 ## License
-
 ]]></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
