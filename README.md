@@ -27,6 +27,6 @@ TODO: Write history
 
 ## License
 
-]]></content>
+></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
