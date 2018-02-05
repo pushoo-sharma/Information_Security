@@ -72,5 +72,38 @@ int main()
     return 0;
 }
 
-
+/*  Tested  - Corrected */
+/*
+#include <stdio.h>
+void remove_input_to_matrix(char str[],int size)
+{
+    int store[10001] = {0};
+    for(int i = 0;i<size;i++)
+    {
+        store[str[i]] = 1;
+    }
+    char input_matrix[25];
+    int flag = 0;
+    for(int i = 97;i<=122 ;i++)
+    {
+        if(!store[i])
+        {
+            input_matrix[flag++] = i;
+        }
+    }
+    int size_one = sizeof(input_matrix)/sizeof(input_matrix[0]);
+    for(int i = 0;i<size_one;i++)
+    {
+        printf("%c ",input_matrix[i]);
+    }
+   // return input_matrix;
+}
+int main()
+{
+    char str[] = {'h','e','l','l','o'};
+    int size = sizeof(str)/sizeof(str[0]);
+    remove_input_to_matrix(str,size);
+    return 0;
+}
+*/
 
