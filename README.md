@@ -7,8 +7,9 @@
 TODO: Collection of Information Security sets ranging from Caesar Cipher to Digital Signature using Cryptool.
 
 ## Practical Set-1
-1. Implementation Caesar cipher encryption-decryption.
-2. Implementation Monoalphabetic cipher encryption-decryption.
+1. Implementation of Caesar cipher encryption-decryption.
+2. Implementation of Monoalphabetic cipher encryption-decryption.
+3. Implementation of Playfair encryption-decryption.
 
 ## Usage
 "The protection of information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide confidentiality, integrity, and availability." 
